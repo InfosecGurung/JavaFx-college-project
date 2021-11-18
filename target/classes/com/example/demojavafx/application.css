@@ -1,0 +1,23 @@
+/* Background styles */
+.root {
+    -fx-background-color: #111927;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: "white";
+    -fx-alignment: center;
+    -fx-padding: 5px 5px;
+}
+
+
+.button {
+  -fx-display: inline-block;
+  -fx-padding: 0.2em 0.3em;
+  -fx-text-decoration: none;
+  -fx-font-size: 14px;
+  -fx-border-radius: 10em;
+  -fx-color: white;
+}
+
+/* Used https://generator.ui.glass/ to generate the CSS design */
