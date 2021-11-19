@@ -40,7 +40,7 @@
          <Font size="14.0" />
       </font>
    </Button>
-   <Button fx:id="exitButton1" layoutX="231.0" layoutY="487.0" mnemonicParsing="false" onAction="#fullScreenButton" prefHeight="34.0" prefWidth="206.0" text="FullScreen enable/disable" textAlignment="CENTER">
+   <Button fx:id="exitButton1" layoutX="231.0" layoutY="487.0" mnemonicParsing="false" onAction="#fullScreenButton" prefHeight="34.0" prefWidth="206.0" text="FullScreen enable" textAlignment="CENTER">
       <font>
          <Font size="14.0" />
       </font>

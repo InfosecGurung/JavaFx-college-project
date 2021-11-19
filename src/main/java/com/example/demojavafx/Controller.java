@@ -40,6 +40,8 @@ public class Controller {
         scene = new Scene(root);
         scene.getStylesheets().add(css);
 
+        stage.setTitle("About the application");
+
         stage.setScene(scene);
         stage.show();
     }

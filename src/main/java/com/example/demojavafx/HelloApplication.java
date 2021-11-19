@@ -18,7 +18,7 @@ public class HelloApplication extends Application {  // main class HelloApplicat
 
             Scene scene = new Scene(fxmlLoader.load());
             scene.getStylesheets().add(css);
-            stage.setTitle("Testing JavaFx");
+            stage.setTitle("Ball Game with JavaFx");
 
             Image icon = new Image("icon.png");  // added icon png in resources directory
             stage.getIcons().add(icon);
